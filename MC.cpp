@@ -1,5 +1,9 @@
 #include<stdio.h>
 int main(){
-    
-    printf("hahahahahaha");
+    int a = 15;
+    int b = a - 5;
+
+    prinf(a)
+    printf("NGUYEN THANH DAT cho");
+
 }
