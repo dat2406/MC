@@ -4,6 +4,6 @@ int main(){
     int b = a - 5;
 
     prinf(a)
-    printf("NGUYEN THANH DAT cho");
+    printf("NGUYEN THANH DAT yeu MC");
 
 }
